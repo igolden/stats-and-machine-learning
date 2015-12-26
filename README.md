@@ -9,6 +9,10 @@ Organization
 
 Organize main ideas into different folders with their own unique README files. As this resource continues to grow we can migrate it off of Github.
 
+* [Data Science](https://github.com/igolden/stats-and-machine-learning/tree/master/data-science)
+* [Machine Learning](https://github.com/igolden/stats-and-machine-learning/tree/master/machine-learning)
+* [Quantative Analysis](https://github.com/igolden/stats-and-machine-learning/tree/master/quantatative-analysis)
+
 
 
 Useful links
