@@ -8,3 +8,8 @@ Links
 ---
 
 * [Strata and Hadoop Livestream](http://original.livestream.com/oreillystrata)
+
+
+Storage
+---
+* [NoSQL vs Postgres](http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/)
