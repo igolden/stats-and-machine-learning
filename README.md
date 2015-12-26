@@ -20,5 +20,6 @@ Useful links
 
 * [Big Data Impacting Wall Street](http://radar.oreilly.com/2015/05/data-science-makes-an-impact-on-wall-street.html) - Great article about using machine learning and sentiment analysis of up to 1.2 Million records a day
 * [Scraping with Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js) - Great article about using machine learning and sentiment analysis of up to 1.2 Million records a day
+* [Scraping with Node.js and YQL](http://code.tutsplus.com/tutorials/web-scraping-with-node-js--net-25560)
 
 
