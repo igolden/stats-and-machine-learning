@@ -14,6 +14,10 @@ Organize main ideas into different folders with their own unique README files. A
 * [Quantative Analysis](https://github.com/igolden/stats-and-machine-learning/tree/master/quantatative-analysis)
 
 
+Technology
+---
+
+* [Apache Spark](http://spark.apache.org/) - Apache Spark is the most powerful live streaming data processing engine available (my opinion after some basic research). The only downside, for me, is that it doesn't have a javascript of ruby API. It has java, scala, python, and R APIs.
 
 Useful links
 ---
