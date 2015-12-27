@@ -21,6 +21,13 @@ Technology
 * [Apache Hive](https://hive.apache.org/) - The data storage platform to use when your DB will have over 100M+ rows
 
 
+Data Sources
+---
+
+* [List of all sectors in stock market](http://biz.yahoo.com/p/) - could be a test dataset to have in CSV on my computer.
+
+
+
 Useful links
 ---
 
