@@ -13,3 +13,8 @@ Links
 Storage
 ---
 * [NoSQL vs Postgres](http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/)
+
+Resources
+---
+
+* [datatau](http://www.datatau.com/)
