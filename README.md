@@ -28,4 +28,4 @@ Useful links
 * [Scraping with Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js) - Great article about using machine learning and sentiment analysis of up to 1.2 Million records a day
 * [Scraping with Node.js and YQL](http://code.tutsplus.com/tutorials/web-scraping-with-node-js--net-25560)
 * [Create a Twitter Sentiment Analysis](http://datascienceplus.com/how-to-create-a-twitter-sentiment-analysis-using-r-and-shiny/)
-
+* [Aggregating and Analyzing Data](http://stats.stackexchange.com/questions/645/best-ways-to-aggregate-and-analyze-data)
