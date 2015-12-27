@@ -14,6 +14,11 @@ Concepts
 ---
 * [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) - Sentiment analysis (opinion mining) uses language processing to understand text and how someone feels, good/bad, on a ratio.
 
+Scraping
+---
+* [Scalable DIY Scraping](http://learn.scrapehero.com/scalable-do-it-yourself-scraping-how-to-build-and-run-scrapers-on-a-large-scale/) - Good article with a lot of overview thoughts on the topic.
+
+
 Storage
 ---
 * [NoSQL vs Postgres](http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/)

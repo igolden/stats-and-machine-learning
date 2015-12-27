@@ -21,7 +21,7 @@ Technology
 * [Apache Hive](https://hive.apache.org/) - The data storage platform to use when your DB will have over 100M+ rows
 * [Scrapy - Data Scraping with Python](http://doc.scrapy.org/en/latest/intro/overview.html) - Scrapy is a Python package that is used to scrape pages. It's the equivalent to 
 * [Scrape.it - Harvest data without code](https://scrape.it/) - Could be a good option for getting a CSV up and running quickly
-
+* [Frontera - Scraper Framework](http://blog.scrapinghub.com/2015/04/22/frontera-the-brain-behind-the-crawls/) - Used alongside Scrapy, you can use frontera to schedule and run repeat jobs while changing your scrape strategy along the way.
 
 Data Sources
 ---
