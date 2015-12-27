@@ -19,6 +19,8 @@ Technology
 
 * [Apache Spark](http://spark.apache.org/) - Apache Spark is the most powerful live streaming data processing engine available (my opinion after some basic research). The only downside, for me, is that it doesn't have a javascript of ruby API. It has java, scala, python, and R APIs.
 * [Apache Hive](https://hive.apache.org/) - The data storage platform to use when your DB will have over 100M+ rows
+* [Scrapy - Data Scraping with Python](http://doc.scrapy.org/en/latest/intro/overview.html) - Scrapy is a Python package that is used to scrape pages. It's the equivalent to 
+* [Scrape.it - Harvest data without code](https://scrape.it/) - Could be a good option for getting a CSV up and running quickly
 
 
 Data Sources
